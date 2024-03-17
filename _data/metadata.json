@@ -1,0 +1,15 @@
+{
+  "title": "Allochronos",
+  "url": "https://allochoronos.com/",
+  "description": "Musical interpretations of poetry from distant times and/or places",
+  "feed": {
+    "subtitle": "Musical interpretations of poetry from distant times and/or places",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://allochronos.com/"
+  },
+  "author": {
+    "name": "Allochronos",
+    "email": "allochronos@gmail.com"
+  }
+}
